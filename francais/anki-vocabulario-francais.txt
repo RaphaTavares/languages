@@ -1,0 +1,445 @@
+travailler	trabalhar
+programmer	programar
+jouer	jogar
+aimer	gostar / amar
+habiter	morar
+manger	comer
+parler	falar
+regarder	assistir / olhar
+écouter	ouvir / escutar
+finir	terminar
+choisir	escolher
+réussir	conseguir / ter sucesso
+réfléchir	refletir / pensar
+grandir	crescer
+attendre	esperar
+répondre	responder
+vendre	vender
+perdre	perder
+entendre	ouvir
+étudier	estudar
+être	ser / estar
+avoir	ter
+faire	fazer
+aller	ir
+un développeur / une développeuse	um(a) desenvolvedor(a)
+un entraînement	um treino
+un jeu de société	um jogo de tabuleiro
+le skateboard / le skate	o skate
+le jiu-jitsu	o jiu-jitsu
+le sport	o esporte
+l'ordinateur (m)	o computador
+l'ordinateur portable (m)	o notebook
+la tablette (f)	o tablet
+le téléphone (m)	o telefone / celular
+le logiciel (m)	o software
+l'application (f) / l'appli	o aplicativo
+le café (m)	o café
+l'eau (f)	a água
+le pain (m)	o pão
+la viande (f)	a carne
+le fromage (m)	o queijo
+le lait (m)	o leite
+la bière (f)	a cerveja
+le riz (m)	o arroz
+les fruits (m)	as frutas
+les légumes (m)	os legumes / verduras
+la salade (f)	a salada
+le poulet (m)	o frango
+le sucre (m)	o açúcar
+la musique (f)	a música
+la voiture (f)	o carro
+la programmation (f)	a programação
+le gâteau (m)	o bolo
+jamais	nunca
+rien	nada
+personne	ninguém
+ne...plus	não mais / já não
+pourquoi	por que
+parce que	porque (resposta)
+où	onde
+quand	quando
+comment	como
+combien	quanto(s)
+qui	quem
+quoi / que	o que
+quel / quelle	qual
+oui	sim
+non	não
+si	sim (contradizendo negativa)
+peut-être	talvez
+bien sûr	claro
+d'accord	ok / combinado
+je ne sais pas	eu não sei
+le Brésil	o Brasil
+la France	a França
+les États-Unis	os Estados Unidos
+le Portugal	Portugal
+le Japon	o Japão
+la rue	a rua
+la place	a praça
+la gare	a estação (de trem)
+l'aéroport (m)	o aeroporto
+la boulangerie	a padaria
+la pharmacie	a farmácia
+le supermarché	o supermercado
+la salle de sport	a academia
+le bureau	o escritório
+la maison	a casa
+l'école (f)	a escola
+à gauche	à esquerda
+à droite	à direita
+tout droit	reto / em frente
+ici	aqui
+dans	dentro de
+sur	em cima de / sobre
+sous	embaixo de
+devant	na frente de
+derrière	atrás de
+entre	entre
+à côté de	ao lado de
+en face de	em frente a
+près de	perto de
+loin de	longe de
+chez	na casa de / no lugar de
+le père	o pai
+la mère	a mãe
+les parents	os pais
+le frère	o irmão
+la sœur	a irmã
+le fils	o filho
+la fille	a filha / a garota
+le grand-père	o avô
+la grand-mère	a avó
+les grands-parents	os avós
+l'oncle (m)	o tio
+la tante	a tia
+le cousin / la cousine	o primo / a prima
+le mari	o marido
+la femme	a esposa / a mulher
+le copain / la copine	o namorado / a namorada
+l'enfant (m/f)	a criança
+la famille	a família
+le neveu / la nièce	o sobrinho / a sobrinha
+l'appartement (m)	o apartamento
+la chambre	o quarto
+le salon	a sala de estar
+la cuisine	a cozinha
+la salle de bains	o banheiro
+les toilettes (f)	o banheiro (privada)
+la salle à manger	a sala de jantar
+le garage	a garagem
+le jardin	o jardim / quintal
+l'entrée (f)	a entrada
+le couloir	o corredor
+l'escalier (m)	a escada
+le balcon	a varanda / sacada
+le lit	a cama
+la table	a mesa
+la chaise	a cadeira
+le canapé	o sofá
+la fenêtre	a janela
+le petit-déjeuner	o café da manhã
+le déjeuner	o almoço
+le dîner	o jantar
+le repas	a refeição
+le beurre	a manteiga
+les haricots (m)	o feijão
+le poisson	o peixe
+la soupe	a sopa
+le thé	o chá
+le jus d'orange	o suco de laranja
+le vin	o vinho
+l'addition (f)	a conta (restaurante)
+lundi	segunda-feira
+mardi	terça-feira
+mercredi	quarta-feira
+jeudi	quinta-feira
+vendredi	sexta-feira
+samedi	sábado
+dimanche	domingo
+janvier	janeiro
+février	fevereiro
+mars	março
+avril	abril
+mai	maio
+juin	junho
+juillet	julho
+août	agosto
+septembre	setembro
+octobre	outubro
+novembre	novembro
+décembre	dezembro
+se réveiller	acordar
+se lever	levantar-se
+se doucher	tomar banho
+se brosser les dents	escovar os dentes
+s'habiller	se vestir
+prendre le petit-déjeuner	tomar café da manhã
+aller au travail	ir ao trabalho
+déjeuner	almoçar
+rentrer à la maison	voltar para casa
+dîner	jantar (verbo)
+se coucher	deitar-se / ir dormir
+dormir	dormir
+bonjour	bom dia / olá
+bonsoir	boa noite (chegando)
+bonne nuit	boa noite (indo dormir)
+au revoir	tchau
+s'il vous plaît	por favor (formal)
+s'il te plaît	por favor (informal)
+merci	obrigado
+merci beaucoup	muito obrigado
+de rien	de nada
+excusez-moi	com licença / desculpe
+je voudrais	eu gostaria
+il faut	é preciso / tem que
+c'est	é / isso é
+il y a	tem / há / existe
+qu'est-ce que c'est ?	o que é isso?
+maintenant	agora
+aujourd'hui	hoje
+demain	amanhã
+hier	ontem
+avant-hier	anteontem
+la semaine dernière	semana passada
+le mois dernier	mês passado
+l'année dernière	ano passado
+il y a (+ tempo)	há / faz (tempo atrás)
+pendant	durante
+les vacances (f)	as férias
+la plage	a praia
+le voyage	a viagem
+un vol	um voo
+le kimono	o kimono (jiu-jitsu)
+un match / un combat	uma luta
+un tournoi	um torneio
+gagner	ganhar / vencer
+rencontrer	encontrar / conhecer (alguém)
+découvrir	descobrir
+apprendre	aprender
+commencer	começar
+prendre	pegar / tomar
+voir	ver
+dire	dizer
+écrire	escrever
+lire	ler
+boire	beber
+pouvoir	poder
+vouloir	querer
+savoir	saber
+mettre	colocar / pôr
+connaître	conhecer
+devoir	dever
+devenir	tornar-se
+revenir	voltar (de volta)
+monter	subir
+rester	ficar
+sortir	sair
+venir	vir
+naître	nascer
+descendre	descer
+entrer	entrar
+rentrer	voltar (para casa)
+tomber	cair
+retourner	retornar
+arriver	chegar
+mourir	morrer
+partir	partir / ir embora
+passer	passar
+avant	antes
+souvent	frequentemente
+d'habitude	normalmente
+tous les jours	todos os dias
+chaque semaine	cada semana
+soudain / tout à coup	de repente
+pendant que	enquanto
+à cette époque	naquela época
+autrefois	antigamente
+se blesser	machucar-se
+le football	o futebol
+le basketball / le basket	o basquete
+la natation	a natação
+la musculation	a musculação
+le vélo / le cyclisme	o ciclismo / a bicicleta
+la course à pied	a corrida
+le yoga	a yoga
+l'escalade (f)	a escalada
+les arts martiaux (m)	as artes marciais
+le surf	o surfe
+la boxe	o boxe
+le combat	a luta / o combate
+la ceinture	a faixa (jiu-jitsu)
+le tatami	o tatame
+un adversaire	um adversário
+s'entraîner	treinar
+le clavier	o teclado
+la souris	o mouse
+l'écran (m)	a tela / o monitor
+le programme	o programa
+le code	o código
+le site web / le site internet	o site
+le bug	o bug
+le serveur	o servidor
+la base de données	o banco de dados
+le réseau	a rede
+le wifi	o wifi
+un e-mail / un courriel	um e-mail
+un mot de passe	uma senha
+télécharger	baixar / fazer download
+sauvegarder	salvar
+le travail	o trabalho
+une réunion	uma reunião
+un projet	um projeto
+une équipe	uma equipe
+un collègue	um colega
+le patron / la patronne	o chefe / a chefe
+le salaire	o salário
+le télétravail	o trabalho remoto
+développer	desenvolver
+déboguer	debugar
+un langage de programmation	uma linguagem de programação
+une mise à jour	uma atualização
+voyager	viajar
+l'avion (m)	o avião
+le train	o trem
+le bus / l'autobus (m)	o ônibus
+le métro	o metrô
+le taxi	o táxi
+à pied	a pé
+le billet	a passagem / o bilhete
+le passeport	o passaporte
+la valise	a mala
+le sac à dos	a mochila
+l'hôtel (m)	o hotel
+la chambre d'hôtel	o quarto de hotel
+une réservation	uma reserva
+la carte d'embarquement	o cartão de embarque
+la douane	a alfândega
+l'embarquement (m)	o embarque
+décoller	decolar
+atterrir	aterrissar
+la correspondance	a conexão (de voo)
+la sortie	a saída
+la tête	a cabeça
+les cheveux (m)	os cabelos
+les yeux (m)	os olhos
+le nez	o nariz
+la bouche	a boca
+l'oreille (f)	a orelha / o ouvido
+le cou	o pescoço
+l'épaule (f)	o ombro
+le bras	o braço
+la main	a mão
+le doigt	o dedo (mão)
+le dos	as costas
+la poitrine	o peito
+le ventre	a barriga
+la jambe	a perna
+le genou	o joelho
+le pied	o pé
+l'orteil (m)	o dedo do pé
+la cheville	o tornozelo
+le poignet	o pulso
+avoir mal à...	estar com dor em...
+être malade	estar doente
+la fièvre	a febre
+le rhume	o resfriado
+la grippe	a gripe
+tousser	tossir
+un médicament	um remédio
+une ordonnance	uma receita médica
+le médecin / le docteur	o médico
+l'hôpital (m)	o hospital
+une blessure	uma lesão / machucado
+se reposer	descansar
+mais	mas / porém
+et	e
+ou	ou
+donc	então / portanto
+alors	então (informal)
+pourtant	no entanto
+d'abord	primeiro
+ensuite / puis	depois / em seguida
+enfin / finalement	enfim / finalmente
+en plus	além disso
+par contre	por outro lado
+par exemple	por exemplo
+à mon avis	na minha opinião
+je pense que	eu acho que
+c'est pourquoi	é por isso que
+aussi	também
+non plus	também não
+surtout	sobretudo / principalmente
+un arbre	uma árvore
+une fleur	uma flor
+le chemin	o caminho
+le bord	a borda
+doucement	suavemente / devagar
+casser	quebrar
+fleurir	florescer
+une fois	uma vez
+seul / seule	sozinho / sozinha
+traverser	atravessar
+une forêt	uma floresta
+une montagne	uma montanha
+un désert	um deserto
+un royaume	um reino
+un livre	um livro
+une bibliothèque	uma biblioteca
+se souvenir (de)	lembrar-se (de)
+oublier	esquecer
+le visage	o rosto
+pleurer	chorar
+triste	triste
+un village	um vilarejo / uma vila
+l'automne (m)	o outono
+une feuille	uma folha
+rouge	vermelho
+doré / dorée	dourado / dourada
+le brouillard	o nevoeiro
+une colline	uma colina
+la magie	a magia
+un guerrier	um guerreiro
+les gens	as pessoas
+ordinaire	ordinário / comum
+la vie	a vida
+une auberge	uma pousada
+un voyageur / une voyageuse	um(a) viajante
+sourire	sorrir / o sorriso
+rire	rir
+doux / douce	suave / doce
+le son	o som
+la pluie	a chuva
+la nuit	a noite
+le matin	a manhã
+le soir	a noite (período)
+raconter	contar (uma história)
+mort / morte	morto / morta
+la capitale	a capital
+la tristesse	a tristeza
+le bonheur	a felicidade
+la preuve	a prova
+un héros	um herói
+courageux / courageuse	corajoso / corajosa
+bête	bobo / estúpido
+combattre	lutar / combater
+sauver	salvar (pessoas)
+une étoile	uma estrela
+vaincre	vencer / derrotar
+vieux / vieille	velho / velha
+trembler	tremer
+comprendre	compreender / entender
+le temps	o tempo
+le silence	o silêncio
+le ciel	o céu
+fragile	frágil
+une promesse	uma promessa
+beau / belle	bonito / bonita
+longtemps	há muito tempo / por muito tempo
+un siècle	um século
+le passé	o passado
+un moment	um momento
+important / importante	importante
+ensemble	juntos
+encore	ainda / de novo
