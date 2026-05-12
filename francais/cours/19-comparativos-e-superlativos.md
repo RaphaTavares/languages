@@ -1,4 +1,4 @@
-# Lição 18 — Comparativos e Superlativos: Comparando e Classificando
+# Lição 19 — Comparativos e Superlativos: Comparando e Classificando
 
 ---
 

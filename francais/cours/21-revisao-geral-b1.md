@@ -1,4 +1,4 @@
-# Lição 20 — Revisão Geral B1 e Produção Avançada
+# Lição 21 — Revisão Geral B1 e Produção Avançada
 
 ---
 
@@ -187,7 +187,7 @@ RADICAL DO FUTUR + terminações do imparfait
 
 ---
 
-### 1.6 Imperativo (Lição 17)
+### 1.6 Imperativo (Lição 18)
 
 #### Formação
 
@@ -220,7 +220,7 @@ RADICAL DO FUTUR + terminações do imparfait
 
 ---
 
-### 1.7 Comparativos e Superlativos (Lição 18)
+### 1.7 Comparativos e Superlativos (Lição 19)
 
 #### Comparativos
 
@@ -258,7 +258,7 @@ RADICAL DO FUTUR + terminações do imparfait
 
 ---
 
-### 1.8 Expressões de Tempo (Lição 19)
+### 1.8 Expressões de Tempo (Lição 20)
 
 #### Guia de decisão
 

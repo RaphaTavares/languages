@@ -1,4 +1,4 @@
-# Lição 22 — O Subjonctif Présent (Aprofundamento)
+# Lição 23 — O Subjonctif Présent (Aprofundamento)
 
 ---
 
@@ -19,7 +19,7 @@ Ao final desta lição, você será capaz de:
 
 ### Parte 1: Gatilhos de Emoção
 
-Raphael, na Lição 21 você aprendeu os gatilhos de necessidade e desejo. Agora vamos expandir para um território igualmente importante: as **emoções**. Em francês, sempre que expressamos um sentimento sobre algo que outra pessoa faz (ou uma situação), usamos o subjonctif.
+Raphael, na Lição 22 você aprendeu os gatilhos de necessidade e desejo. Agora vamos expandir para um território igualmente importante: as **emoções**. Em francês, sempre que expressamos um sentimento sobre algo que outra pessoa faz (ou uma situação), usamos o subjonctif.
 
 A lógica é simples: quando você diz "Estou feliz que...", você não está constatando um fato — está expressando como você **se sente** sobre algo. E sentimentos são subjetivos, logo → subjonctif.
 
@@ -206,7 +206,7 @@ Quando você faz uma pergunta com inversão (forma mais formal), você questiona
 
 ### Parte 5: Conjunções — Subjonctif vs. Indicatif
 
-Raphael, na Lição 21 você viu algumas conjunções que exigem subjonctif (pour que, avant que, bien que). Agora vamos completar a lista e, mais importante, **contrastá-la** com as conjunções que usam indicatif.
+Raphael, na Lição 22 você viu algumas conjunções que exigem subjonctif (pour que, avant que, bien que). Agora vamos completar a lista e, mais importante, **contrastá-la** com as conjunções que usam indicatif.
 
 #### Conjunções que exigem SUBJONCTIF
 

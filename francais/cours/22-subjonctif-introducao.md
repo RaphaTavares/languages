@@ -1,4 +1,4 @@
-# Lição 21 — O Subjonctif Présent (Introdução)
+# Lição 22 — O Subjonctif Présent (Introdução)
 
 ---
 
@@ -29,7 +29,7 @@ Em francês, existem vários modos verbais:
 |------|---------------|---------|
 | **Indicatif** | Expressar fatos, realidades, certezas | Je **travaille** chez Jure. |
 | **Subjonctif** | Expressar desejos, dúvidas, necessidades, emoções | Il faut que je **travaille** ce soir. |
-| **Impératif** | Dar ordens e conselhos (Lição 17) | **Travaille** bien ! |
+| **Impératif** | Dar ordens e conselhos (Lição 18) | **Travaille** bien ! |
 | **Conditionnel** | Hipóteses, polidez (Lição 12) | Je **travaillerais** si je pouvais. |
 
 Até agora, você estudou quase tudo no modo **indicatif** — presente, passé composé, imparfait, futur simple. Todos eles descrevem **coisas que acontecem, aconteceram ou acontecerão de verdade**. O indicatif é o modo da **realidade e da certeza**.

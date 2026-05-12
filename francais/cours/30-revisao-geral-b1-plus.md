@@ -63,7 +63,7 @@ O subjonctif aparece sempre numa oração subordinada introduzida por **que**, a
 
 ---
 
-### 1.2 Subjonctif Présent — Irregulares (Lição 21)
+### 1.2 Subjonctif Présent — Irregulares (Lição 22)
 
 Os 8 verbos irregulares essenciais no subjonctif:
 
@@ -121,7 +121,7 @@ AVOIR ou ÊTRE no conditionnel présent + participe passé
 
 ---
 
-### 1.4 Discours Rapporté — Discurso Indireto (Lição 25)
+### 1.4 Discours Rapporté — Discurso Indireto (Lição 26)
 
 #### Transformação dos tempos verbais
 
@@ -167,7 +167,7 @@ Quando o verbo introdutor está no passado (*il a dit que*, *elle m'a demandé s
 
 ---
 
-### 1.5 Gérondif (Lição 26)
+### 1.5 Gérondif (Lição 17)
 
 #### Formação
 

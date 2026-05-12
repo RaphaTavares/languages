@@ -1,4 +1,4 @@
-# Lição 25 — O Discurso Indireto (Le Discours Indirect)
+# Lição 26 — O Discurso Indireto (Le Discours Indirect)
 
 ---
 
@@ -66,7 +66,7 @@ Quando o verbo que introduz a fala está no **presente** (dit, demande, annonce,
 
 Aqui está o coração da lição, Raphael. Quando o verbo introdutório está no **passado** (a dit, a demandé, a annoncé, a expliqué...), os tempos verbais da frase reportada **devem recuar um passo no passado**. Isso se chama **la concordance des temps**.
 
-Lembra do conditionnel da Lição 12, do plus-que-parfait da Lição 23 e do imparfait da Lição 07? Todos eles aparecem aqui!
+Lembra do conditionnel da Lição 12, do plus-que-parfait da Lição 24 e do imparfait da Lição 07? Todos eles aparecem aqui!
 
 #### Tabela de Transformações Temporais
 

@@ -1,4 +1,4 @@
-# Lição 23 — O Plus-que-parfait: O Passado do Passado
+# Lição 24 — O Plus-que-parfait: O Passado do Passado
 
 ---
 

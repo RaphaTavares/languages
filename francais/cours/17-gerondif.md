@@ -1,4 +1,4 @@
-# Lição 26 — O Gérondif e o Particípio Presente
+# Lição 17 — O Gérondif e o Particípio Presente
 
 ---
 

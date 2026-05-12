@@ -1,4 +1,4 @@
-# Lição 24 — Vocabulário do Cotidiano 4: Sentimentos, Opiniões e Debates
+# Lição 25 — Vocabulário do Cotidiano 4: Sentimentos, Opiniões e Debates
 
 ---
 
