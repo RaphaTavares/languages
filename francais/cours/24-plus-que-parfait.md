@@ -304,8 +304,8 @@ Esses marcadores ajudam a sinalizar que uma ação é anterior a outra:
 | **auparavant** | anteriormente | J'**avais** étudié l'anglais **auparavant**. (Eu tinha estudado inglês anteriormente.) |
 | **la veille** | na véspera | **La veille**, il **avait** plu toute la journée. (Na véspera, tinha chovido o dia todo.) |
 | **quand / lorsque** | quando | **Quand** je suis arrivé, il **avait** déjà fini. |
-| **après que** | depois que | **Après qu'**il **avait** mangé, il est sorti. |
-| **une fois que** | uma vez que | **Une fois qu'**il **avait** compris, tout **était** facile. |
+| **après que** | depois que | **Après qu'** il **avait** mangé, il est sorti. |
+| **une fois que** | uma vez que | **Une fois qu'** il **avait** compris, tout **était** facile. |
 | **jamais** | nunca | Je n'**avais jamais** vu ça. (Eu nunca tinha visto isso.) |
 
 **Exemplos personalizados:**
