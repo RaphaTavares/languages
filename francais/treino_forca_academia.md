@@ -46,13 +46,13 @@ Serve para "ligar" glúteo e core antes de carregar.
 
 ---
 
-## TREINO B — posterior + puxar + unilateral
+## TREINO B — posterior + puxar
 
 | # | Exercício | Séries x Reps | Alvo |
 |---|-----------|---------------|------|
 | 1 | Hip thrust com barra no banco (1 seg em cima) | 4 x 10 | Glúteo (mais corrige postura) |
-| 2 | Puxada alta na polia (pegada aberta, peito pra cima) | 4 x 10 | Costas, puxada — carrega pro BJJ |
-| 3 | Afundo com halteres ou búlgaro no banco | 3 x 10 por perna | Unilateral, dobra carga da perna |
+| 2 | Barra fixa (livre ou no graviton, peito pra cima) | 4 x 6–10 | Costas, puxada — carrega pro BJJ |
+| 3 | Mesa flexora (cadência lenta na descida) | 3 x 10–12 | Posterior de coxa direto |
 | 4 | Remada baixa na polia (cotovelo colado, aperta a escápula) | 3 x 10 | Puxar horizontal |
 | 5 | Prancha + prancha lateral | 3 rodadas: 30–40 seg frontal, 20–30 seg cada lado | Core anti-extensão e anti-rotação |
 | 6 | Farmer carry com halteres pesados | 3 x 30–40 passos | Pegada, antebraço, core, postura |
