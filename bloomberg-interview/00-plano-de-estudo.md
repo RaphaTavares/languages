@@ -103,6 +103,8 @@ Idioma: explicações em português, termos técnicos e perguntas/respostas de e
 - [ ] `12-sql-coding-drills.md` (18 drills progressivos — sexta à noite ou intercalado com aulas 02-04)
 - [ ] `13-architectural-patterns.md` 🔥 (os 23 padrões arquiteturais — scalability, data, extensibility, reliability, deployment)
 - [ ] `14-migration-whiteboard.md` 🔥🔥 (a migração desenhada como whiteboard: diagramas, AWS, patterns aplicados, pitch de 3 min)
+- [ ] `15-system-design-fundamentals.md` (referência: os 20 blocos fundamentais, de computer architecture a MapReduce)
+- [ ] `16-system-design-questions.md` (os 9 designs clássicos no formato whiteboard; prioridade: rate limiter, KV store, distributed queue)
 
 ## ⚡ REPRIORIZAÇÃO (pouco tempo restante)
 
