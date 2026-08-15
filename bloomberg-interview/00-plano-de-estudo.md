@@ -101,6 +101,19 @@ Idioma: explicações em português, termos técnicos e perguntas/respostas de e
 - [ ] `10-rapid-fire.md` (única com respostas-modelo no arquivo — não olhar antes de tentar)
 - [ ] `11-aws-dynamodb.md`
 - [ ] `12-sql-coding-drills.md` (18 drills progressivos — sexta à noite ou intercalado com aulas 02-04)
+- [ ] `13-architectural-patterns.md` 🔥 (os 23 padrões arquiteturais — scalability, data, extensibility, reliability, deployment)
+- [ ] `14-migration-whiteboard.md` 🔥🔥 (a migração desenhada como whiteboard: diagramas, AWS, patterns aplicados, pitch de 3 min)
+
+## ⚡ REPRIORIZAÇÃO (pouco tempo restante)
+
+Como a entrevista foi descrita como **"technical + design pattern questions + architectural based"** e o tempo de estudo encurtou, a ordem de ataque muda para:
+
+1. **`14-migration-whiteboard.md`** 🔥🔥 — o cenário da vaga inteiro num arquivo; treinar o desenho e o pitch
+2. **`13-architectural-patterns.md`** 🔥 — os padrões que sustentam as respostas do 14
+3. **`08-design-patterns.md`** — "design pattern questions" literal
+4. **`06-migration-sql-to-postgresql.md`** — aprofunda o 14 (perguntas, dual-write, validação)
+5. **`10-rapid-fire.md`** — na manhã da entrevista
+6. SQL (aulas 01-05, 12) — o que der: priorizar aula 02 (window functions) e o framework da aula 04, que são os mais prováveis de SQL
 
 ## 🔁 Fluxo de trabalho
 
